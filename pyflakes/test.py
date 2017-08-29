@@ -1,3 +1,2 @@
-import time
-prin time.time()
+print time.time()
 print "Hello World"
